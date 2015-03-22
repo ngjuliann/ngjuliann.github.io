@@ -2,11 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @font-face {
     font-family: myriad;
-    src: url(https://github.com/ngjuliann/ngjuliann.github.io/blob/master/font/MYRIADPRO-REGULAR.OTF);
+    src: url(https://github.com/ngjuliann/ngjuliann.github.io/blob/master/font/MYRIADPRO-REGULAR.OTF) format("opentype");;
 }
 @font-face {
     font-family: myriadbold;
-    src: url(https://github.com/ngjuliann/ngjuliann.github.io/blob/master/font/MYRIADPRO-BOLDCOND.OTF);
+    src: url(https://github.com/ngjuliann/ngjuliann.github.io/blob/master/font/MYRIADPRO-BOLDCOND.OTF) format("opentype");;
 }
 
 *, *:before, *:after {
