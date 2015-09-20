@@ -10,4 +10,7 @@ url: "http://ngjuliann.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 highlighter: pygments
+=======
+>>>>>>> parent of 5137ab6... PDF INDEX
