@@ -174,13 +174,49 @@ a:focus {
     }
 }
 
+.btn-circleblog {
+    width: 150px;
+    height: 100px;
+    margin-top: 15px;
+    padding: 7px 16px;
+    border: 2px solid #fff;
+    border-radius: 35px;
+    font-size: 40px;
+    color: #fff;
+    background: 0 0;
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+
+.btn-circleblog:hover,
+.btn-circleblog:focus {
+    outline: 0;
+    color: #fff;
+    background: rgba(255,255,255,.1);
+}
+
+.btn-circleblog i.animated {
+    -webkit-transition-property: -webkit-transform;
+    -webkit-transition-duration: 1s;
+    -moz-transition-property: -moz-transform;
+    -moz-transition-duration: 1s;
+}
+
+.btn-circleblog:hover i.animated {
+    -webkit-animation-name: pulse;
+    -moz-animation-name: pulse;
+    -webkit-animation-duration: 1.5s;
+    -moz-animation-duration: 1.5s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-timing-function: linear;
+}
+
 .btn-circle {
     width: 130px;
-<<<<<<< HEAD
     height: 100px;
-=======
-    height: 140px;
->>>>>>> 8819cf796e0d76a99a929219fbd54da3a7f5dcf2
     margin-top: 15px;
     padding: 7px 16px;
     border: 2px solid #fff;
