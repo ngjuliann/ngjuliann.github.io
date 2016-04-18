@@ -175,10 +175,8 @@ a:focus {
 }
 
 .btn-circleblog {
-    width: 150px;
-    height: 100px;
     margin-top: 15px;
-    padding: 7px 16px;
+    padding: 20px 20px;
     border: 2px solid #fff;
     border-radius: 35px;
     font-size: 40px;
@@ -215,10 +213,8 @@ a:focus {
 }
 
 .btn-circle {
-    width: 130px;
-    height: 100px;
     margin-top: 15px;
-    padding: 7px 16px;
+    padding: 20px 20px;
     border: 2px solid #fff;
     border-radius: 35px;
     font-size: 40px;
