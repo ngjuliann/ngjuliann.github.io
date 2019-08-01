@@ -29,4 +29,7 @@ social:
 markdown: kramdown
 permalink: pretty
 
+# Google Analytics
+google_analytics: UA—71267387-1
+
 
